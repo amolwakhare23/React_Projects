@@ -21,7 +21,7 @@ const Counter = () => {
             <div className="main_div">
 
                 <div className="center_div">
-                    <h2> Counter </h2>
+                    <h2> Counter  Add </h2>
                     <h1>{num}</h1>
                     <div className="btn_div">
                         <button onClick={increment}>Increment</button>
