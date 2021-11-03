@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: initial;
+}
+h2{
+  color: blue;
+  text-align: center;
+  text-shadow: blueviolet; 
+}
+.main_div{
+  height:100vh;
+  width: 100%;
+  background-color: cyan;
+
+}
+.center_div{
+  background-color: chocolate;
+  width: 30%;
+  height: 40vh;
+  align-items: center;
+  margin-left: 450px;
+
+}
