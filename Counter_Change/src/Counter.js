@@ -10,11 +10,8 @@ const Counter = () => {
 
     const decrement = () => {
         if (num > 0)
-
-            setNum(num - 1);
-        else
-            alert("Sorry, Zero Limit Reached");
-        setNum(0);
+            setNum(num-1);
+        
     }
     return (
         <>
